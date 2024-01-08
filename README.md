@@ -3,7 +3,7 @@
 ## ✅Sobre o Projeto
 [drinksbarprojeto.com](https://drinks-bar-projeto.vercel.app/)
 
-Ima página web envolvente e atrativa para um estabelecimento fictício, combinando habilidades em HTML, CSS e JavaScript. O projeto tem como objetivo proporcionar uma experiência online única, destacando a variedade de drinks oferecidos e criando um ambiente virtual que reflete uma atmosfera descontraída e sofisticada. 
+Uma página web envolvente e atrativa para um estabelecimento fictício, combinando habilidades em HTML, CSS e JavaScript. O projeto tem como objetivo proporcionar uma experiência online única, destacando a variedade de drinks oferecidos e criando um ambiente virtual que reflete uma atmosfera descontraída e sofisticada. 
 No HTML, estruturei a página de forma clara e intuitiva, trabalhando cada seção do site, e utilizei o CSS para estilizar cada elemento e o JavaScript para implementar a interatividade no site.
 
 ## 🔗 Layout
